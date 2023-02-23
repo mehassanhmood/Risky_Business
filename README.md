@@ -16,7 +16,7 @@
         1. Classification Report.
         2. Balanced Accuracy Score.
         3. Confusion Matrix.
-    6. Following findings were observed in terms og performance of the model:
+    6. Following findings were observed in terms of performance of the model:
     ![Reampling Results](resample.jpg)
 4. Balanced Random Forest Classifier and Easy Ensemble Classifier:
     1. After following the required steps of feature and target selection,splitting of data sets , the two models were trained and tested on the data sets.
