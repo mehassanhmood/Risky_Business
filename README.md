@@ -21,5 +21,5 @@
 4. Balanced Random Forest Classifier and Easy Ensemble Classifier:
     1. After following the required steps of feature and target selection,splitting of data sets , the two models were trained and tested on the data sets.
     2. These models were then evaluated using the same metrics as mentioned before.
-    3. Following results were obtained as the resulty of evaluation.
+    3. Following results were obtained as the result of evaluation.
     ![Ensemble Results](ensemble.jpg)
